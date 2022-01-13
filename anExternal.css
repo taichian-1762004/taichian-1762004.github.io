@@ -11,7 +11,7 @@ p.dotted {border-style: dotted;}
   transform: translate(-50%, -50%);
 }
 .thumbnail {
-  float: left;
+  float: right;
   width: 125px;
   height: 125px;
   margin: 10px;
@@ -20,6 +20,6 @@ p.dotted {border-style: dotted;}
   border-radius: 25px;
   border: 2px solid #73AD21;
   padding: 20px; 
-  width: 200px;
+  width: 150px;
   height: 150px;  
 }
